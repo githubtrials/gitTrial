@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+changed file content with 1
+=======
+second type of content with 2
+>>>>>>> NewWork
